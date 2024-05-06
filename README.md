@@ -1,2 +1,2 @@
-# Kasper-Html-Css
-A website using Html and  Css
+# Kasper
+A frontend template using Html and  Css
