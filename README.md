@@ -1,2 +1,2 @@
-# Kasper-Html-Css-Js
+# Kasper-Html-Css
 Html + CSS Template
